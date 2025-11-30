@@ -1,12 +1,17 @@
-# React + Vite
+# Mon sit d'édition d'articles
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce site a deux fonctionnalités principales: 
+- rédiger des articles grace à son éditeur de texte et les publier
+- lire des articles rédigés sur le site.
 
-Currently, two official plugins are available:
+La base de donées du site se trouve sur firebase. Si vous rencontrez des problèmes plutard à la lecture cela voudrait dire que l'essaie gratuit est terminée. Au moins l'objectif fixé en réalisant ce projet a été atteint à la fin de sa réalisation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Le projet a été réalisé le ‎lundi ‎14 ‎avril ‎2025, ‏‎à 01:01:19.
 
-## Expanding the ESLint configuration
+Pour l'exécuter apres avoir cloné le dépot il faut entrer la commande de lancement d'un projet react soit:
+'''
+npm run dev
+'''
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Cordialement,
+Ngom Christine.
